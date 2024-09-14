@@ -4,9 +4,9 @@
 
 💻 Linux 
 
-🗄 SQLite3, PostgreSQL - (Не много)
+🗄 SQLite3, PostgreSQL
 
-📁 HTML, CSS, JavaScript - (Не много), Python, Java - (Не много), bash - (Не много)
+📁 HTML, CSS, JavaScript, Python, (Java и C++ Не много), Bash, React. Перечислять дальше нет смысла.
 
 🔨 А так же несколько разных API.
 
